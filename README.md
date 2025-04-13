@@ -3,7 +3,7 @@
 #### I'm a Software Developer working from India.
 
 - 🏢 I'm currently working with **SenseHawk (Reliance Industries)**.
-- 💻 I use daily: `React`, `React Native`, `JavaScript`, `TypeScript`, `REST`, `figma`, `Node`, `MongoDB` and sometimes some other weird stuff.
+- 💻 I use daily: `React`, `React Native`, `JavaScript`, `TypeScript`, `REST`, `figma`, `Node`, `MongoDB` and sometimes some other interesting stuff.
 - 🎓 I've studied Information Technology at IIIT Gwalior.
 - 📫 Reach me: [https://adityasid.vercel.app](https://adityasid.vercel.app)
 
